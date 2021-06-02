@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LucarioJapans
-- 👀 I’m interested in ... nothing
-- 🌱 I’m currently learning ... nothing
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... you dont
+- 👀 I’m interested in Game Development!
+- 🌱 I’m currently trying to learn Lua!
+- 💞️ I’m looking to collaborate on Overdrive, a ROBLOX fighting game!
+- 📫 How to reach me, via Discord [øš]Џu◕α®♫Ø平仮名#8100 or e-mail me at admin@projectmod.cz!
 
 <!---
 LucarioJapans/LucarioJapans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
