@@ -11,22 +11,15 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  👋 Hi, Megami Tensei, I'm a computer enthusiast who is open to learn new things!
   <br>
+  💻 I love writing code and solving problems!
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  📚 I’m currently learning how to create websites with HTML, CSS and Javascript and also perfecting my Lua skills.
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  💬 Ask me anything about from <a href="https://github.com/LucarioJapans/LucarioJapans/issues" title="Issues">Here</a>
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: admin@projectmod.cz">admin@projectmod.cz</a>
 </p>
 
 <hr>
