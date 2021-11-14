@@ -17,7 +17,7 @@
   <br>
   📚 I’m currently learning how to create websites with HTML, CSS and Javascript and also perfecting my Lua skills.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/LucarioJapans/LucarioJapans/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/MegamiShin/LucarioJapans/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: admin@projectmod.cz">admin@projectmod.cz</a>
 </p>
