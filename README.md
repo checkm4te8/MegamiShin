@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code>
-  <code><a href="https://www.hackerrank.com/orelvazoun1" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/Megami" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/11755929/shin-megami-tensei" title="Discord Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
