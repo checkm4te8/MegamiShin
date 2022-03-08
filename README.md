@@ -15,11 +15,11 @@
   <br>
   💻 I love writing code and solving problems!
   <br>
-  📚 I’m currently learning how to create websites with HTML, CSS and Javascript and also perfecting my Lua skills.
+  📚 I’m currently learning how to create websites with HTML, CSS and Javascript and also perfecting my Luau skills.
   <br>
   💬 Ask me anything about from <a href="https://github.com/MegamiShin/MegamiShin/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: admin@projectmod.cz">admin@projectmod.cz</a>
+  📫 How to reach me: <a href="mailto: megami@tenseimegami.com">megami@tenseimegami.com</a>
 </p>
 
 <hr>
