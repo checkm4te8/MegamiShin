@@ -11,8 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  👋 Hi, Megami Tensei, I'm a computer enthusiast who is open to learn new things!
-  <br>
+  👋 Hi, Megami Tensei, I'm a computer enthusiast who is open to learn new things!<br>
   💻 I love writing code and solving problems!
   <br>
   📚 I’m currently learning how to create websites with HTML, CSS and Javascript and also perfecting my Luau skills.
