@@ -17,7 +17,7 @@
   <br>
   📚 I’m currently learning how to create websites with HTML, CSS and Javascript and also perfecting my Luau skills.
   <br>
-  💬 Ask me anything <a href="https://github.com/MegamiShin/MegamiShin/issues" title="Issues">Here./a>
+  💬 Ask me anything <a href="https://github.com/MegamiShin/MegamiShin/issues" title="Issues">Here.</a>
   <br>
   📫 How to reach me: <a href="mailto: megami@tenseimegami.com">megami@tenseimegami.com</a>
 </p>
