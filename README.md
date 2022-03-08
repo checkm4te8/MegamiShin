@@ -33,7 +33,7 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="YAML" height="25" src="images/yamlpic.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="GitHub + GitHub Desktop" height="25" src="images/GithubDesk.png"></code>
 </p>
 <hr>
 
