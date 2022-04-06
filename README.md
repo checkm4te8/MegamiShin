@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  👋 Hi, Megami Tensei, I'm a computer enthusiast who is open to learn new things!
+  👋 Hi, Megami Tensei here! I'm a computer enthusiast who is open to learn new things!
   <br>
   💻 I love writing code and solving problems!
   <br>
