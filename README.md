@@ -1,74 +1,91 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;II'm+Shin+Megami+Tensei....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+### Hey there, Megami here! 👋
 
-<h5 align="center">
-  <code>
-  <code><a href="https://www.hackerrank.com/Megami" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/11755929/shin-megami-tensei" title="Discord Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-</h5>
-<br>
-<p align="center">
-  👋 Hi, Megami Tensei here! I'm a computer enthusiast who is open to learn new things!
-  <br>
-  💻 I love writing code and solving problems!
-  <br>
-  📚 I’m currently learning how to create websites with HTML, CSS and Javascript and also perfecting my Luau skills.
-  <br>
-  💬 Ask me anything <a href="https://github.com/MegamiShin/MegamiShin/issues" title="Issues">Here.</a>
-  <br>
-  📫 How to reach me: <a href="mailto: megami@tenseimegami.com">megami@tenseimegami.com</a>
-</p>
+---
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Luau" height="25" src="images/luau.png"></code>
-  <code><img title="HTML" height="25" src="images/html5.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Linux Terminal" height="25" src="images/terminal.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="YAML" height="25" src="images/yamlpic.png"></code>
-  <code><img title="GitHub + GitHub Desktop" height="25" src="images/GithubDesk.png"></code>
-</p>
-<hr>
+I am a Developer who is trying to learn web development at the moment, I'm interested in the cloud :cloud: and in a bit of game development.
+ 
+ 🔭 I’m planning a project **EduBot: A public discord bot that can fetch data from school portals**.
+ 
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> JavaScript.
+ 
+ :books: I want to learn <img src="https://img.shields.io/badge/-Hacking-000000?style=flat&logo=hackthebox&logoColor=9fef00">
+ 
+ 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 
+ 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ 
+ 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MegamiShin&theme=react&border=61dafb&hide_border=true" alt="MegamiShin" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MegamiShin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegamiShin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MegamiShin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
-<hr>
+![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MegamiShin/MegamiShin" title="Config"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MegamiShin&repo=MegamiShin&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<h4 align="center">
-  <a href="https://github.com/MegamiShin?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+
+---
+
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+
+### Other Languages I know
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
+---
+
+
+### You can find in me in the web 🌍
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+
+---
+### You can checkout my blogs :loudspeaker: 
+
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
+
+[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+
+---
+
+Let's connect 👨‍💻 and forge the future together.😁✌
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [Souravdey777](https://github.com/Souravdey777)
+
+[website]: https://souravdey777.github.io/Portfolio/
+[twitter]: https://twitter.com/Souravdey777
+[youtube]: https://youtube.com/
+[instagram]: https://www.instagram.com/souravdey777/
+[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[medium]: https://medium.com/@Souravdey777/
 
 
