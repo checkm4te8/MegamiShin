@@ -58,7 +58,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/MegamiShin)
+:star: From [Megami](https://github.com/MegamiShin)
 
 [website]: https://tenseimegami.com/
 
