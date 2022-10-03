@@ -6,18 +6,18 @@ I am a Developer who is trying to learn web development at the moment, I'm inter
  
  🔭 I’m planning a project **EduBot: A public discord bot that can fetch data from school portals**.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> JavaScript.
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Hacking-000000?style=flat&logo=hackthebox&logoColor=9fef00">
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m not looking to collaborate at the moment.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ 🤔 I’m not looking for any help at the moment.
  
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+ 💬 Ask me about anything!
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/MegamiShin)  <img src="https://img.shields.io/github/followers/MegamiShin?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
