@@ -46,7 +46,6 @@ I am a Developer who is trying to learn web development at the moment, I'm inter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MegamiShin&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/MegamiShin)
 
 ---
 
